@@ -1,0 +1,14 @@
+artifact@artifact:~/sources/theories/opt$ cat .ex1_down.aux
+COQAUX1 e0c134e13da429db5d4ab81237687653 /home/artifact/sources/theories/opt/ex1_down.v
+340 1068 context_used ""
+1070 1310 context_used ""
+0 0 VernacProof "tac:no using:yes"
+5910 5914 proof_build_time "1.290"
+0 0 ex1_down_sim_fun "1.290"
+5910 5914 proof_check_time "0.169"
+0 0 VernacProof "tac:no using:yes"
+6492 6496 proof_build_time "0.005"
+0 0 ex1_down "0.005"
+6492 6496 proof_check_time "0.002"
+0 0 vo_compile_time "4.442"
+artifact@artifact:~/sources/theories/opt$

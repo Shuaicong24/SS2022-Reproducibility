@@ -1,0 +1,14 @@
+artifact@artifact:~/sources/theories/opt$ cat .ex2.aux
+COQAUX1 6ec84ac36efc5be7eab2dd5d82433769 /home/artifact/sources/theories/opt/ex2.v
+264 1087 context_used ""
+1089 1331 context_used ""
+0 0 VernacProof "tac:no using:yes"
+4797 4801 proof_build_time "0.927"
+0 0 ex2_sim_body "0.927"
+4797 4801 proof_check_time "0.063"
+0 0 VernacProof "tac:no using:yes"
+5345 5349 proof_build_time "0.004"
+0 0 ex2 "0.004"
+5345 5349 proof_check_time "0.001"
+0 0 vo_compile_time "3.890"
+artifact@artifact:~/sources/theories/opt$

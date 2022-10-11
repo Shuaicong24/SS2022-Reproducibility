@@ -1,0 +1,10 @@
+artifact@artifact:~/sources/theories/sim$ cat .behavior.aux
+COQAUX1 c0b711523f25b9ba83f9ea723992f68b /home/artifact/sources/theories/sim/behavior.v
+0 0 VernacProof "tac:no using:yes"
+1365 1369 proof_build_time "0.004"
+0 0 behave_mon "0.004"
+1365 1369 proof_check_time "0.000"
+1611 1703 context_used ""
+1705 1830 context_used ""
+0 0 vo_compile_time "1.391"
+artifact@artifact:~/sources/theories/sim$

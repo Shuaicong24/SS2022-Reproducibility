@@ -1,0 +1,12 @@
+artifact@artifact:~/sources/theories/sim$ cat .local_adequacy.aux
+COOAUX1 171ae51ffdb13ed13a2ebcf3ec61f044 /home/artifact/sources/theories/sim/local_adequacy.v
+0 0 VernacProof "tac:no using:yes"
+593 597 proof_build_time "0.002"
+0 0 fill_step_inv_2 "0.002"
+593 597 proof_check_time "0.001"
+0 0 VernacProof "tac:no using:yes"
+9823 9827 proof_build_time "0.947"
+0 0 sim_local_conf_sim "0.947"
+9823 9827 proof_check_time "0.111"
+0 0 vo_compile_time "2.617"
+artifact@artifact:~/sources/theories/sim$

@@ -1,0 +1,14 @@
+artitact@artitact:~/sources/theories/sim$ cat .global.aux
+COOAUX1 efc6ab1924cf27cf037eb74e146f557f /home/artifact/sources/theories/sim/global.v
+616 722 context_used ""
+0 0 VernacProof "tac:no using:no"
+903 907 proof_build_time "1655824247.053"
+903 907 context_used ""
+903 907 proof_check_time "0.000"
+0 0 VernacProof "tac:no using:no"
+2657 2661 proof_build_time "0.005"
+0 0 _sim_mono "0.005"
+2657 2661 context_used ""
+2657 2661 proof_check_time "0.001"
+0 0 vo_compile_time "0.820"
+artifact@artifact:~/sources/theories/sim$

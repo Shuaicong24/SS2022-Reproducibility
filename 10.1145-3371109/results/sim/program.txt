@@ -1,0 +1,8 @@
+artifact@artifact:~/sources/theories/sim$ cat .program.aux
+COQAUX1 c34f9751b0f30533dalla00215ac7350 /home/artifact/sources/theories/sim/program.v
+0 0 VernacProof "tac:no using:yes"
+1600 1604 proof_build_time "0.162"
+0 0 sim_prog_sim_classical "0.162"
+1600 1604 proof_check_time "0.010"
+O O vo_compile_time "1.538"
+artifact@artifact:~/sources/theories/sim$

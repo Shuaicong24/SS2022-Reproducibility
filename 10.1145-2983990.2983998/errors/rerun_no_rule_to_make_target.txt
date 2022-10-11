@@ -1,0 +1,19 @@
+user@crunchie-3:/usr/local/src/oopsla-artifact/src$ make "$LIBALLOCS"/tools/Makefile.allocsites \ 
+/usr/lib/allocsites$( readlink -f /lib/x86_64-linux-gnu/libc.so.6 )-types.so
+make: /tools/Makefile.allocsites: No such file or directory
+make: *** No rule to make target '/tools/Makefile.allocsites'.  Stop.
+user@crunchie-3:/usr/local/src/oopsla-artifact/src$ cd liballocs/tools
+user@crunchie-3:/usr/local/src/oopsla-artifact/src/liballocs/tools$ ls
+alias-linker-opts-for-base-types.sh  find-allocated-type-size.cpp  Makefile.allocsites
+alloc.c                              find-allocated-type-size.o    merge-allocs.sh
+allocscompilerwrapper.py             gather-srcallocs.sh           objdeps
+allocs-install                       helpers.cpp                   objoumpallocs
+allocsites                           helpers.hpp                   stubgen.h
+allocsites.cpp                       helpers.o                     unigtypes.cpp
+allocsites.o                         ifacetypes                    unigtypes.hpp
+compilerwrapper.py                   ifacetypes.cpp                unigtypes.o
+dumptypes                            ifacetypes.o                  usedtypes
+dumptypes.cop                        lang                          usedtypes.cpp
+dumptypes.o                          ldd-funcs.sh                  used-types-funcs.sh
+find-allocated-type-size             liballocstool.a               usedtypes.o
+user@crunchie-3:/usr/local/src/oopsla-artifact/src/liballocs/tools$
